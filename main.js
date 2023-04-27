@@ -1,6 +1,5 @@
-import "./style.css";
 import * as THREE from "three";
-import { gsap, Power1 } from "gsap";
+import { gsap } from "gsap";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry";
 
